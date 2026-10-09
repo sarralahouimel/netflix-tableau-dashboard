@@ -35,27 +35,25 @@ The dashboard includes several visual analyses:
 
 ## Dashboard
 
-Main Tableau dashboard:
-
-**Netflix**
-### Dashboard Preview
+### Main Dashboard
 
 ![Netflix Dashboard](images/netflix_dashboard.png)
 
+## Additional Dashboard Views
 
-#### Movies vs TV Shows
+### Movies vs TV Shows
 ![Movies vs TV Shows](images/Capture%20d’écran%202026-10-09%20à%2009.40.37.png)
 
-#### Ratings
+### Ratings
 ![Ratings](images/Capture%20d’écran%202026-10-09%20à%2009.40.51.png)
 
-#### Release Year
+### Release Year
 ![Release Year](images/Capture%20d’écran%202026-10-09%20à%2009.40.57.png)
 
-#### Top Genres
+### Top Genres
 ![Top Genres](images/Capture%20d’écran%202026-10-09%20à%2009.41.02.png)
 
-#### Country Distribution
+### Country Distribution
 ![Country Distribution](images/Capture%20d’écran%202026-10-09%20à%2009.41.08.png)
 
 ## Technologies
