@@ -42,19 +42,24 @@ The dashboard includes several visual analyses:
 ## Additional Dashboard Views
 
 ### Movies vs TV Shows
-![Movies vs TV Shows](images/Capture%20d’écran%202026-10-09%20à%2009.40.37.png)
+
+![Movies vs TV Shows](images/movies_tv_distribution.png)
 
 ### Ratings
-![Ratings](images/Capture%20d’écran%202026-10-09%20à%2009.40.51.png)
+
+![Ratings](images/ratings.png)
 
 ### Release Year
-![Release Year](images/Capture%20d’écran%202026-10-09%20à%2009.40.57.png)
+
+![Release Year](images/release_year.png)
 
 ### Top Genres
-![Top Genres](images/Capture%20d’écran%202026-10-09%20à%2009.41.02.png)
+
+![Top Genres](images/top_genres.png)
 
 ### Country Distribution
-![Country Distribution](images/Capture%20d’écran%202026-10-09%20à%2009.41.08.png)
+
+![Country Distribution](images/country_distribution.png)
 
 ## Technologies
 
